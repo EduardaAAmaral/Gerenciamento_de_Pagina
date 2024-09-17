@@ -1,3 +1,6 @@
+#Para rodar basta colocar o main.py arquivo-z.txt (quantidade de frames que vc quer)
+#Eduarda Amaral - 155563
+
 from collections import OrderedDict, deque
 import re
 import sys
